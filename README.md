@@ -48,9 +48,4 @@ Dashboard Preview
 <img width="1150" height="638" alt="image" src="https://github.com/user-attachments/assets/aace6b7f-09f6-4c5e-ba2d-d11565f7cc1a" />
 
 
-How to Use
 
-Download the .pbix file
-Open it using Power BI Desktop
-Refresh the data if needed
-Interact with filters and visuals to explore insights
